@@ -1,2 +1,5 @@
 # space-game
-dodge the asteroids
+dodge the asteroids!
+## controls
++ a to go left
++ d to go right
